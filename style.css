@@ -18,7 +18,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url('pic/homebg1.png');
+    background-image: url('homebg1.png');
     /* opacity: 0.3; */
     background-size: cover;
     background-position: center;
