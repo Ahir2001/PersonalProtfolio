@@ -323,7 +323,7 @@ nav ul li a::after{
 }
 /* -------------contact------ */
 #footer{
-    background-image: url(pic/contactbgfinal.png);
+    background-image: url(contactbgfinal.png);
     background-size: cover;
         background-position: center;
         padding: 100px;
